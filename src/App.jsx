@@ -14,9 +14,8 @@ const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Education", "Co
 const SKILLS = {
   Frontend: ["React.js", "Next.js", "Redux", "TanStack Query", "Tailwind CSS", "HTML5", "CSS3"],
   Backend: ["Node.js", "Express.js", "REST APIs", "Socket.io", "JWT", "OAuth 2.0"],
-  Database: ["MongoDB", "MySQL", "Mongoose", "Firebase", "Firestore", "Redis"],
-  "DevOps & Tools": ["AWS EC2", "Nginx", "Docker", "Git & GitHub", "CI/CD", "Vercel", "Netlify"],
-  Other: ["JavaScript (ES6+)", "TypeScript", "DSA", "Agile"],
+  Database: ["MongoDB", "MySQL", "Mongoose", "Firebase"],
+  Other: ["JavaScript (ES6+)"],
 };
 
 const LEARNING = ["Python", "Agentic AI", "LangChain", "AI Engineering"];
